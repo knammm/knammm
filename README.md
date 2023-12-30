@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149370940.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1703030400&semt=ais" alt="MasterHead" width="800">
+  <img src="https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149370940.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1703030400&semt=ais" alt="MasterHead" width="600">
 </div>
 <h1 align="center">Hi 👋, I'm Nguyen Khanh Nam</h1>
 <h3 align="">I am a third-year student majoring in Computer Engineering at BKU. My passion lies in working with cloud computing environments, with a recent focus on AWS. I have experiences in using AWS at beginner level and still improving it every day. In the future, I want to become a DevOps Engineer.</h3>
