@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **nam.nguyenolkmphy@hcmut.edu.vn**
 
-- 📄 My resumé [NguyenKhanhNam_Resume]() 
+- 📄 My resumé [NguyenKhanhNam_Resume](https://github.com/knammm/knammm/blob/Resum%C3%A9/Nguyen_Khanh_Nam.pdf) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
