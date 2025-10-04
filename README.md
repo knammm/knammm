@@ -20,7 +20,6 @@
 - 👯 I’m looking to collaborate on open-source or practical projects related to **Cloud-native technologies, Infrastructure as Code (IaC), and cybersecurity**.
 - 💬 Ask me about **Distributed Systems, Cloud Architecture, Security, and Computer Network**.
 - 📫 How to reach me: **namnguynkhnh686@gmail.com**
-- 📄 Check out my [**Resumé**](https://github.com/knammm/knammm/blob/Resum%C3%A9/CV_NguyenKhanhNam.pdf) for more details.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
